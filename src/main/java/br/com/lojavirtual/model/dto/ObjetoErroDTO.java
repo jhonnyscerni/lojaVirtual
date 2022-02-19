@@ -1,4 +1,4 @@
-package jdev.mentoria.lojavirtual.model.dto;
+package br.com.lojavirtual.model.dto;
 
 import java.io.Serializable;
 
